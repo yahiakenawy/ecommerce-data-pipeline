@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+env/
+venv/
+
+# SQLite databases and CSV files (if you don't want to include them)
+*.db
+*.csv
+
+# IDE files (adjust as needed)
+.vscode/
+.idea/
