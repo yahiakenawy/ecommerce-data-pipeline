@@ -42,7 +42,7 @@ ecommerce-data-pipeline/
    ```bash
    pip install -r requirements.txt
 
-4. **Run the Pipeline**
+4. **Run the Pipeline:**
   Scrape the data, clean it, set up the database, and launch the dashboard with a single bash snippet:
 
     ```bash
