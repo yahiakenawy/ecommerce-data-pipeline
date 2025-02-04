@@ -46,8 +46,6 @@ ecommerce-data-pipeline/
   Scrape the data, clean it, set up the database, and launch the dashboard with a single bash snippet:
 
     ```bash
-    Copy
-    Edit
     python scraper.py         # Scrapes the data and generates raw_books.csv.
     python data_cleaning.py   # Cleans the data and creates clean_books.csv.
     python database_setup.py  # Sets up the database by creating books.db.
